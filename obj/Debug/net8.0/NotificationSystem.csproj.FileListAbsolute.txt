@@ -170,3 +170,16 @@ D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\ru\Microsoft.Cod
 D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll

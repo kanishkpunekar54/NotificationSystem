@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NotificationSystem.Data;
+using Serilog;
 
 namespace NotificationSystem
 {
@@ -14,6 +15,16 @@ namespace NotificationSystem
             {
                 options.UseSqlServer("Server=POOLW42NLPC2020\\SQLEXPRESS;Database=NotificationDB;Trusted_Connection=True;TrustServerCertificate=True");
             });
+
+            //Configure Serilog
+            Log.Logger = new LoggerConfiguration()
+                .WriteTo.Console()
+                .WriteTo.File("logs/log.text", rollingInterval: RollingInterval.Day)
+                .CreateLogger();
+            builder.Host.UseSerilog();
+
+            //add serilog to the application
+            builder.Host.UseSerilog();
 
             // Add services to the container.
 
