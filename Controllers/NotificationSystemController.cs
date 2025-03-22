@@ -23,7 +23,18 @@ namespace NotificationSystem.Controllers
             var notification = new Notification { Message = message };
             _context.Notifications.Add(notification);
             await _context.SaveChangesAsync();
-            return Ok($"Notification Sent : {message}");
+            return Ok(
+                   new
+                   {
+                       Success = true,
+                       Message = "Notification Sent Successfully",
+                       Notification = notification
+                       
+
+                   }
+                );
+
+
         }
 
 
@@ -32,5 +43,25 @@ namespace NotificationSystem.Controllers
         {
             return await _context.Notifications.ToListAsync();
         }
+
+        [HttpPut("{id}/mark-as-read")]
+        public async Task<IActionResult> MarkAsRead(int id)
+        {
+            var notification = await _context.Notifications.FindAsync(id);
+            if (notification == null)
+            {
+                return NotFound("Notification not found");
+
+            }
+            notification.IsRead = true;
+            await _context.SaveChangesAsync();
+            return Ok(new
+            {
+                Success = true,
+                Message = "Notification marked as read"
+            });
+
+        }
+            
     }
 }

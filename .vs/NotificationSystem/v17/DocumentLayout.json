@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Training\\ProjectsByChris\\NotificationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\controllers\\notificationsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:controllers\\notificationsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\migrations\\20250322133918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T16:38:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NotificationSystemController.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Controllers\\NotificationSystemController.cs",
               "RelativeDocumentMoniker": "Controllers\\NotificationSystemController.cs",
               "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Controllers\\NotificationSystemController.cs",
               "RelativeToolTip": "Controllers\\NotificationSystemController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T13:54:28.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20250322133918_InitialCreate.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Migrations\\20250322133918_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250322133918_InitialCreate.cs",
@@ -75,19 +92,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAACUAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T16:29:13.811Z"
+              "WhenOpened": "2025-03-21T16:29:13.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Notification.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Notification.cs",
@@ -99,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -111,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "README.md",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -123,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NotificationSystem.csproj",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\NotificationSystem.csproj",
               "RelativeDocumentMoniker": "NotificationSystem.csproj",
@@ -135,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
