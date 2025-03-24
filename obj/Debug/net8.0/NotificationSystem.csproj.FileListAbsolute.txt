@@ -183,3 +183,4 @@ D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Settings
 D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 D:\Training\ProjectsByChris\NotificationSystem\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Training\ProjectsByChris\NotificationSystem\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

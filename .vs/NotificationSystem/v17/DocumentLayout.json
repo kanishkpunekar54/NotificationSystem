@@ -11,8 +11,32 @@
       "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:controllers\\notificationsystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\notificationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:notificationsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\migrations\\20250324063542_initialcreatev3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:migrations\\20250324063542_initialcreatev3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\observer\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:observer\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\observer\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:observer\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\observer\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:observer\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\observer\\inotificationobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:observer\\inotificationobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -27,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\migrations\\20250322133918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:migrations\\20250322133918_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|d:\\training\\projectsbychris\\notificationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A1D4D01-F528-43F8-8EE4-C540BAACC408}|NotificationSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,20 +73,29 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250324063542_initialCreatev3.cs",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Migrations\\20250324063542_initialCreatev3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250324063542_initialCreatev3.cs",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Migrations\\20250324063542_initialCreatev3.cs",
+              "RelativeToolTip": "Migrations\\20250324063542_initialCreatev3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:35:42.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-22T16:55:25.861Z",
+              "DocumentIndex": 4,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "Observer\\EmailNotifier.cs",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\EmailNotifier.cs",
+              "RelativeToolTip": "Observer\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:29:36.434Z",
               "EditorCaption": ""
             },
             {
@@ -81,22 +106,22 @@
               "RelativeDocumentMoniker": "Controllers\\NotificationSystemController.cs",
               "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Controllers\\NotificationSystemController.cs",
               "RelativeToolTip": "Controllers\\NotificationSystemController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswE4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:54:28.365Z",
+              "WhenOpened": "2025-03-23T12:18:34.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotificationSystem.csproj",
-              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\NotificationSystem.csproj",
-              "RelativeDocumentMoniker": "NotificationSystem.csproj",
-              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\NotificationSystem.csproj",
-              "RelativeToolTip": "NotificationSystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T07:01:42.997Z",
+              "DocumentIndex": 6,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "Observer\\NotificationManager.cs",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\NotificationManager.cs",
+              "RelativeToolTip": "Observer\\NotificationManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:35:18.739Z",
               "EditorCaption": ""
             },
             {
@@ -107,14 +132,78 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T16:29:13.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SMSNotifier.cs",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\SMSNotifier.cs",
+              "RelativeDocumentMoniker": "Observer\\SMSNotifier.cs",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\SMSNotifier.cs",
+              "RelativeToolTip": "Observer\\SMSNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:33:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:02:16.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "INotificationObserver.cs",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\INotificationObserver.cs",
+              "RelativeDocumentMoniker": "Observer\\INotificationObserver.cs",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Observer\\INotificationObserver.cs",
+              "RelativeToolTip": "Observer\\INotificationObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:28:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T16:38:39.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T06:30:18.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20250322133918_InitialCreate.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Migrations\\20250322133918_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250322133918_InitialCreate.cs",
@@ -126,32 +215,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T16:38:39.833Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T16:55:25.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "Models\\Notification.cs",
-              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Models\\Notification.cs",
-              "RelativeToolTip": "Models\\Notification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:02:16.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -163,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "README.md",
               "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -172,18 +248,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-03-22T07:00:53.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Training\\ProjectsByChris\\NotificationSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Training\\ProjectsByChris\\NotificationSystem\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-22T06:30:18.87Z"
             }
           ]
         }

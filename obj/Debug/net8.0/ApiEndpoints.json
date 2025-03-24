@@ -18,11 +18,17 @@
   {
     "ContainingType": "NotificationSystem.Controllers.NotificationSystemController",
     "Method": "GetAllNotifications",
-    "RelativePath": "api/notifications/all",
+    "RelativePath": "api/notifications/all/{recipient}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "recipient",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[NotificationSystem.Models.Notification, NotificationSystem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
@@ -44,9 +50,30 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "message",
-        "Type": "System.String",
+        "Name": "notification",
+        "Type": "NotificationSystem.Models.Notification",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NotificationSystem.Controllers.NotificationSystemController",
+    "Method": "Subscribe",
+    "RelativePath": "api/notifications/subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "recipient",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "notificationType",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

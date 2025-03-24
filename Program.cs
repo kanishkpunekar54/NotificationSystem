@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NotificationSystem.Data;
+using NotificationSystem.Observer;
 using Serilog;
 
 namespace NotificationSystem
@@ -15,6 +16,9 @@ namespace NotificationSystem
             {
                 options.UseSqlServer("Server=POOLW42NLPC2020\\SQLEXPRESS;Database=NotificationDB;Trusted_Connection=True;TrustServerCertificate=True");
             });
+            // Register NotificationManager
+            builder.Services.AddSingleton<NotificationManager>();
+
 
             //Configure Serilog
             Log.Logger = new LoggerConfiguration()
@@ -34,6 +38,8 @@ namespace NotificationSystem
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
